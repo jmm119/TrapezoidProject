@@ -9,3 +9,4 @@ height = float(input("Enter the height: "))
 
 # Areacalc call
 area = calc(base1, base2, height)
+print(area)
